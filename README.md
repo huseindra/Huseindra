@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My life's goal is planned to learn, unlearn and relearn. Hence, I do believe that these principles will help me in the future.
+Learn, unlearn and relearn.  I do believe that these principles will help me in the future.
 
 <!--
 **huseindra/huseindra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
