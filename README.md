@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Learn, unlearn and relearn.  I do believe that these principles will help me in the future.
+Learn, unlearn and relearn.  I do believe that these principles will help me in the future. <br>
 Software developer who focused on web development
 
 <!--
