@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Learn, unlearn and relearn.  I do believe that these principles will help me in the future. <br>
-Software developer who focused on web development
+Software developer by night who focused on web development
 
 <!--
 **huseindra/huseindra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
