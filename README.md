@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Software developer by night who focused on web development
+Software developer by night who focuses on web development
 
 <!--
 **huseindra/huseindra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
