@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-Learn, unlearn and relearn.  I do believe that these principles will help me in the future. <br>
 Software developer by night who focused on web development
 
 <!--
