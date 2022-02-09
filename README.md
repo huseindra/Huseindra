@@ -5,7 +5,7 @@ A software engineer by night who focuses on web technologies, beyond that, I'm a
  - 🔭 I'm currently learning MERN and PERN stack
  - ⚡ Fun fact: Husein has knowledge implementation project in data center infrastructure, cloud infrastructure, security software, hybrid infrastructure and ITSM software. Also, Husein has a strong technical knowledge to deliver the right technology and the right cost.
 - 🌱 I’m currently trying to solve problem in medium-enterprise project implementation through the right technology adoption and the right cost.
-- 📫 How to reach me: huseindra@gmail.com
+- 📫 How to reach me: hello.huseindra@gmail.com
 
 
 On the other hand, I was former Community Lead at <a href="https://developers.google.com/community/gdsc" target="_blank"> Google DSC </a>
