@@ -5,7 +5,7 @@ A software engineer by night who focuses on web technologies, beyond that, I'm a
  - 🔭 I'm currently learning MERN and PERN stack
  - 📫 How to reach me: hello.huseindra@gmail.com
 
-On the other hand, I was former Community Lead at <a href="https://developers.google.com/community/gdsc" target="_blank"> Google DSC </a>
+<!-- On the other hand, I was former Community Lead at <a href="https://developers.google.com/community/gdsc" target="_blank"> Google DSC </a> -->
 
 
 <!--
