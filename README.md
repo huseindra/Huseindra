@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-A software engineer by night who focuses on web technologies, beyond that, I'm also interested in cloud infrastructure and have a strong background in enterprise project management.
+A technical product manager who can code on web technologies particularly front-end development, beyond that, I'm also interested in cloud infrastructure and have a strong background in enterprise project management.
  - 🖥 Trying writing code with javascript
  - 🔭 I'm currently learning MERN and PERN stack
  - 📫 How to reach me: hello.huseindra@gmail.com
