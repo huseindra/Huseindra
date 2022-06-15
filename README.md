@@ -2,7 +2,7 @@
 
 A passionate software engineer who code on web technologies particularly front-end development, beyond that, I'm also interested in cloud infrastructure and have a strong background in enterprise project management.
  - 🖥 Trying writing code with javascript/typescript
- - 🔭 Stack: React,HTML,CSS, Next.js, Gatsby, Redux-Redux@toolkit, Firebase, MySQL, Mongodb, Postgre Laravel, Tailwinds, Antdesign.
+ - 🔭 Stack: React,HTML,CSS, Next.js, Gatsby, Redux, Firebase, MySQL, Mongodb, Postgre Laravel, Tailwinds, Antdesign.
  - 📫 How to reach me: hello.huseindra@gmail.com
 
 <!-- On the other hand, I was former Community Lead at <a href="https://developers.google.com/community/gdsc" target="_blank"> Google DSC </a> -->
