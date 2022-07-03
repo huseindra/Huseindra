@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 A passionate software engineer who code on web technologies particularly front-end development, beyond that, I'm also interested in cloud infrastructure and have a strong background in enterprise project management.
- - 🖥 Trying writing code with javascript/typescript
+ - 🖥 Writing code with javascript/typescript
  - 🔭 Tools: React, HTML, CSS, Sass, Next.js, Gatsby, Node.js, Redux, Firebase, MySQL, Mongodb, Postgre, Laravel, Tailwinds, Antdesign, PageSpeed Insights.
  - 📫 How to reach me: hello.huseindra@gmail.com
 
