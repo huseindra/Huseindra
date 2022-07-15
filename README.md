@@ -2,7 +2,7 @@
 
 A passionate software engineer who code on web technologies particularly front-end development, beyond that, I'm also interested in cloud infrastructure and have a strong background in enterprise project management.
  - 🖥 Writing code with javascript/typescript
- - 🔭 Tools: React, HTML, CSS, Sass, Next.js, Gatsby, Node.js, Redux, Firebase, MySQL, Mongodb, Postgre, Laravel, Tailwinds, Antdesign, PageSpeed Insights.
+ - 🔭 Tools: React, HTML, CSS, Sass, Next.js, Gatsby, Jest, Node.js, Redux, Firebase, MySQL, Mongodb, Postgre, Laravel, Tailwinds, Chakra, Antdesign, PageSpeed Insights.
  - 📫 How to reach me: hello.huseindra@gmail.com
 
 <!-- On the other hand, I was former Community Lead at <a href="https://developers.google.com/community/gdsc" target="_blank"> Google DSC </a> -->
