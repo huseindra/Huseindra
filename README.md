@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-A Product Manager who can Code. 
  - 🖥 Writing code with javascript/typescript
  - 🔭 Tools: React, HTML5, CSS3, Sass, Next.js, Gatsby, Jest, Node.js, Redux, Firebase, MySQL, Mongodb, Postgre, Laravel, Tailwinds, Chakra, Antdesign, PageSpeed Insights.
  - 📫 How to reach me: hello.huseindra@gmail.com
