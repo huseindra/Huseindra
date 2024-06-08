@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- - 🖥 Writing code with javascript/typescript
+ - 🖥 Writing code with javascript/typescript, and learning RUST
  - 🔭 Tools: React, HTML5, CSS3, Sass, Next.js, Gatsby, Jest, Node.js, Redux, Firebase, MySQL, Mongodb, Postgre, Laravel, Tailwinds, Chakra, Antdesign, PageSpeed Insights.
  - 📫 How to reach me: hello.huseindra@gmail.com
 
